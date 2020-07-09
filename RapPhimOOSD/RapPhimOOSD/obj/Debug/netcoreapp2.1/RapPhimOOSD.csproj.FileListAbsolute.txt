@@ -44,9 +44,9 @@ D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\bin\Debug\netcoreapp2.
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\bin\Debug\netcoreapp2.1\RapPhimOOSD.pdb
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\bin\Debug\netcoreapp2.1\RapPhimOOSD.Views.dll
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\bin\Debug\netcoreapp2.1\RapPhimOOSD.Views.pdb
-D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.csprojAssemblyReference.cache
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.AssemblyInfoInputs.cache
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.AssemblyInfo.cs
+D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.csproj.CoreCompileInputs.cache
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.RazorAssemblyInfo.cache
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.RazorAssemblyInfo.cs
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.TagHelpers.input.cache
@@ -69,4 +69,3 @@ D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.pdb
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.genruntimeconfig.cache
 D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.csproj.CopyComplete
-D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.csproj.CoreCompileInputs.cache
