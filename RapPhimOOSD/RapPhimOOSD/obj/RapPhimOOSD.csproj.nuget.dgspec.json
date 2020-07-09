@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj": {}
+  },
+  "projects": {
+    "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+        "projectName": "RapPhimOOSD",
+        "projectPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+        "packagesPath": "C:\\Users\\Son phan\\.nuget\\packages\\",
+        "outputPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Son phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[160.2004021.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
