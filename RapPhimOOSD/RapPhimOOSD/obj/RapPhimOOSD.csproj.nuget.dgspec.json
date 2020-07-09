@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\TKHDT\\RapPhipOOSD\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj": {}
+    "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\TKHDT\\RapPhipOOSD\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj": {
+    "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\TKHDT\\RapPhipOOSD\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+        "projectUniqueName": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
         "projectName": "RapPhimOOSD",
-        "projectPath": "D:\\HocTap\\TKHDT\\RapPhipOOSD\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+        "projectPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
         "packagesPath": "C:\\Users\\Son phan\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\TKHDT\\RapPhipOOSD\\RapPhimOOSD\\RapPhimOOSD\\obj\\",
+        "outputPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Son phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,14 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[160.2004021.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             },
             "System.Diagnostics.Tools": {
               "target": "Package",

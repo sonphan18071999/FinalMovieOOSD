@@ -33,7 +33,8 @@ namespace RapPhimOOSD
             });
             services.AddMvc();
             services.AddDbContext<DatabaseDbContext>(item => item.UseSqlServer(Configuration.GetConnectionString("myconn")));
-
+            //services.AddDbContext<DatabaseDbContext>(opt =>
+            //   opt.UseInMemoryDatabase("myconn"));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

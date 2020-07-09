@@ -10,7 +10,7 @@ using RapPhimOOSD.Models;
 namespace RapPhimOOSD.Migrations
 {
     [DbContext(typeof(DatabaseDbContext))]
-    [Migration("20200706083655_init")]
+    [Migration("20200709131731_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,10 +37,6 @@ namespace RapPhimOOSD.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Logins");
-
-                    b.HasData(
-                        new { Id = new Guid("49ec83b0-57d5-49f2-a315-6a983ca588ab"), password = "Developer", role = "New York", sessionId = "12345", userName = "John" }
-                    );
                 });
 #pragma warning restore 612, 618
         }

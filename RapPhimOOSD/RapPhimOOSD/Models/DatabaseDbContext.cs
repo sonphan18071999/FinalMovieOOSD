@@ -10,13 +10,8 @@ namespace RapPhimOOSD.Models
     {
         public DatabaseDbContext(DbContextOptions options): base(options)
         {
-
         }
-        DbSet<Login> Logins { get; set; }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Login>().HasData(
-                new Login() { Id = Guid.NewGuid(), userName = "John", password = "Developer", role = "New York", sessionId = "12345" });
-        }
+        public DbSet<Login> Logins { get; set; }
+       
     }
 }

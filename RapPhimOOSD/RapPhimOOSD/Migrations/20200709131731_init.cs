@@ -21,11 +21,6 @@ namespace RapPhimOOSD.Migrations
                 {
                     table.PrimaryKey("PK_Logins", x => x.Id);
                 });
-
-            migrationBuilder.InsertData(
-                table: "Logins",
-                columns: new[] { "Id", "password", "role", "sessionId", "userName" },
-                values: new object[] { new Guid("49ec83b0-57d5-49f2-a315-6a983ca588ab"), "Developer", "New York", "12345", "John" });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
