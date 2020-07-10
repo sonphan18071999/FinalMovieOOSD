@@ -105,3 +105,4 @@ D:\HocTap\Nam 3-HKII\TKHDT\BACKUP\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.
 D:\HocTap\Nam 3-HKII\TKHDT\BACKUP\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.pdb
 D:\HocTap\Nam 3-HKII\TKHDT\BACKUP\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.genruntimeconfig.cache
 D:\HocTap\Nam 3-HKII\TKHDT\BACKUP\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.csproj.CopyComplete
+D:\HocTap\Nam 3-HKII\TKHDT\Github\RapPhimOOSD\RapPhimOOSD\obj\Debug\netcoreapp2.1\RapPhimOOSD.csprojAssemblyReference.cache

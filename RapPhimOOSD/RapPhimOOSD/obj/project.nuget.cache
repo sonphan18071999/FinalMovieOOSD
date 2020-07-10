@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BkgL+i24ZBjHp2KL99FDyE/fFQ0veE7l271M2YiNkuLnzUIstyqUTSBZbRbupwVQvxD25dLWQts8YZmGwd9gng==",
+  "dgSpecHash": "dW6hrtJRRshOfq9d752aa7pbOOeoP+CkBBQFPr4JUcXnz0KKIGkega/3K5vhCW2jFbIZbKev3ob//TaZzGsMhA==",
   "success": true,
-  "projectFilePath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+  "projectFilePath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Son phan\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Son phan\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

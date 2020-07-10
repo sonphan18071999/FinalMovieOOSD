@@ -14,6 +14,7 @@ namespace RapPhimOOSD.Models
         public string password { get; set; }
         public string role { get; set; }
         public string sessionId { get; set; }
+        public Customer customer { get; set; }
 
     }
 }

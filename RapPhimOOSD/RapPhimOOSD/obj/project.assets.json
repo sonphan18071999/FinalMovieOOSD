@@ -13315,11 +13315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+      "projectUniqueName": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
       "projectName": "RapPhimOOSD",
-      "projectPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
+      "projectPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\RapPhimOOSD.csproj",
       "packagesPath": "C:\\Users\\Son phan\\.nuget\\packages\\",
-      "outputPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\BACKUP\\RapPhimOOSD\\RapPhimOOSD\\obj\\",
+      "outputPath": "D:\\HocTap\\Nam 3-HKII\\TKHDT\\Github\\RapPhimOOSD\\RapPhimOOSD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Son phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
